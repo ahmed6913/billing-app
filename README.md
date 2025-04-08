@@ -58,3 +58,11 @@ Here user can download the bill in PDF format.
 
 ## Libraries and Utilities
 React, Redux, react-router-dom, react-redux, redux-thunk, react-google-charts, moment, axios, material UI, validator
+
+
+steps to start the project on the local machine 
+
+1. open cmd cd  mbs then again cd to billing-app then type npm start /port 3000 
+2. open cmd cd  billing backend then type  node index.js /port 5000
+   
+   
